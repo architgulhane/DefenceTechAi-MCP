@@ -149,9 +149,9 @@ def tech_info(weapon: str) -> dict:
             "error": f"Unexpected error: {str(e)}"
         }
 
-# -----------------------------
+# ----------------------------
 # RESOURCE: equipment://{category}
-# -----------------------------
+# ----------------------------
 @mcp.resource("equipment://{category}")
 def get_category_equipment(category: str) -> dict:
     """
