@@ -41,9 +41,18 @@ DefenseTechAI is an intelligent Model Context Protocol (MCP) server designed to 
 
 ---
 
-## 🤖 Powered By
-- [mcp-server](https://pypi.org/project/mcp-server/)
-- [Wikipedia Python API](https://pypi.org/project/wikipedia/)
+## Caching 
+Caching is used in the DefenseTechAI project to make the system faster, more efficient, and usable in restricted or offline environments.
+
+ What Caching Does:
+
+-Stores previously fetched Wikipedia summaries in a local file called cache.json.
+
+-Prevents repeated API calls for the same weapon or topic.
+
+-Ensures quicker response time for frequently asked queries.
+
+-Allows system functionality even without an internet connection.
 
 ---
 
