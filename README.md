@@ -17,6 +17,8 @@ DefenseTechAI is an intelligent Model Context Protocol (MCP) server designed to 
 
 - **Extensible MCP Tools & Resources**  
   Easily add new tools or resources for custom defense tech queries.
+  
+  ![Screenshot 2025-06-26 234932](https://github.com/user-attachments/assets/3991a1f3-9707-4412-9548-067713d3b844)
 
 ---
 
@@ -26,28 +28,7 @@ DefenseTechAI is an intelligent Model Context Protocol (MCP) server designed to 
 - **/resource/equipment://{category}**: List all equipment in a given category.
  Unlike large language models (LLMs) that depend on constant internet connectivity, your MCP server runs locally, giving you a critical edge in defense-related environments where security and reliability are non-negotiable.
 
-
----
-
-## 🛠️ Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone <your-repo-url>
-   cd MCPSERVER
-   ```
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   # or, if requirements.txt is not present:
-   pip install mcp-server wikipedia
-   ```
-3. **Run the server**
-   ```bash
-   python main.py
-   ```
-
----
+![WhatsApp Image 2025-06-26 at 23 47 37_0e5bdc5d](https://github.com/user-attachments/assets/45ca92a1-5492-4ba5-b860-ec8c56e8a3c2)
 
 ## 📚 Example Usage
 
