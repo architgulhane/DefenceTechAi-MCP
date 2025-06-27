@@ -7,7 +7,7 @@ DefenseTechAI is an intelligent Model Context Protocol (MCP) server designed to 
 ## 🚀 Features
 
 - **Comprehensive Weapon Database**  
-  Query technical details (type, origin, range, speed, usage) for a variety of defense weapons and equipment.
+  Query technical details (type, origin, range, speed, usage) for a variety of defense weapons and equipments.
 
 - **Category-Based Resource Access**  
   Retrieve lists of equipment grouped by type (missile, drone, tank, radar, etc.).
