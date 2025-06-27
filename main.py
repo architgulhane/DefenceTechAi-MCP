@@ -3,9 +3,9 @@ import wikipedia
 import os
 import json
 
-# -----------------------------
+# ----------------------------
 # Initialize the MCP Server
-# -----------------------------
+# ----------------------------
 # This line initializes the MCP server instance with the name "DefenseTech".
 mcp = FastMCP("DefenseTech")
 
